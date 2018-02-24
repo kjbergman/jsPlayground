@@ -1,0 +1,41 @@
+body {
+	background-color: green;
+}
+
+h1 {
+	font-size: 3em;
+	font-weight: bold;
+}
+
+h2 {
+	font-size: 2em;
+	font-weight: bold;
+}
+
+header {
+	padding: 1em;
+}
+
+div {
+	padding: 5em;
+	background-color: black;
+	color: black;
+	font-size: 1em;
+}
+
+p {
+	padding: 2em;
+	background-color: grey;
+}
+
+#firstBox {
+	background-color: yellow;
+}
+
+#secondBox {
+	background-color: orange;
+}
+
+#thirdBox {
+	background-color: pink;
+}
