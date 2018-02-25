@@ -1,5 +1,6 @@
 body {
 	background-color: green;
+	font-family: verdana,arial;
 }
 
 h1 {
@@ -13,14 +14,12 @@ h2 {
 }
 
 header {
-	padding: 1em;
+	padding: 2em;
+	background: linear-gradient(to bottom right, red, yellow);
 }
 
-div {
-	padding: 5em;
-	background-color: black;
-	color: black;
-	font-size: 1em;
+nav {
+	background-color: grey;
 }
 
 p {
